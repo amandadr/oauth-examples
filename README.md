@@ -1,5 +1,2 @@
 # oauth-examples
-# oauth-examples
-# oauth-examples
-# oauth-examples
-# oauth-examples
+Check out the docs and search-console examples.
