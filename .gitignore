@@ -1,0 +1,6 @@
+docs/credentials.json
+docs/token.json
+search-console/searchconsole.dat
+
+__pycache__/
+oauth-test
