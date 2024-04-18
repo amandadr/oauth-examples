@@ -3,6 +3,7 @@ docs/token.json
 search-console/searchconsole.dat
 
 __pycache__/
-oauth-test
+.pytest_cache/
+oauth
 
 .env
