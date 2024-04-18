@@ -2,3 +2,9 @@ Command-line samples for Search Console API (formerly known as Webmaster Tools A
 
 api: webmasters
 keywords: cmdline
+
+### To Get Started:
+- add appropriate credentials to client_secrets.js (pertaining to analytics account, for permission to client sites)
+- delete searchconsole.dat if it exists
+- make sure you're in a venv with the requirements installed
+- run `python3 search_analytics_api_sample.py 'https://www.controlandcompound.com/' '2023-01-01' '2024-01-01'`

@@ -5,6 +5,9 @@ https://developers.google.com/docs/api/quickstart/python), and in about five
 minutes you'll have a simple Python command-line application that makes
 requests to the Google Docs API.
 
+### To Get Started:
+This one's simple - follow the quickstart above. Delete token.json if it exists and replace credentials.json if it exists.
+
 ## Install
 
 ```shell

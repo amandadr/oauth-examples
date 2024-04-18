@@ -4,3 +4,5 @@ search-console/searchconsole.dat
 
 __pycache__/
 oauth-test
+
+.env
